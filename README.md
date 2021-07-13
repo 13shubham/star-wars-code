@@ -9,7 +9,7 @@
 ### `npm build`
 
 NOTE: This application is hosted on `firebase`. Please find below URL:
-### `https://star-wars-client.web.app/`
+[star-wars-client](https://star-wars-client.web.app/)
 ##### ----BACKEND SETUP---- ###############
 1- Move to 'server' folder
 
@@ -21,4 +21,4 @@ NOTE: This application is hosted on `firebase`. Please find below URL:
 
 Localhost server is by default 8000 and from Postman use localhost:8000/api/people/{id}
 NOTE: This application server is hosted on `heroku`. Please find below URL:
-    ### `https://swapi-node-apis.herokuapp.com/api/people/`
+[star-wars-app](https://swapi-node-apis.herokuapp.com/api/people/)
