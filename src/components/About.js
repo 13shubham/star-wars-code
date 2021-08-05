@@ -65,8 +65,8 @@ const About = ({ personData }) => {
             </div>
           </div>
           <div className="lg:flex bg-black rounded-lg border shadow-lg">
-            <MoviesTable Persons={Person} />
-            <SpeciesTable Persons={Person} />
+            <MoviesTable Persons={Person}/>
+            <SpeciesTable Persons={Person}/>
           </div>
         </div>
       )}
